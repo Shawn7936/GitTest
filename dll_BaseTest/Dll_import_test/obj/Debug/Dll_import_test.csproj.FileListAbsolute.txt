@@ -1,0 +1,11 @@
+d:\documents\visual studio 2012\Projects\dll_BaseTest\Dll_import_test\bin\Debug\Dll_import_test.exe.config
+d:\documents\visual studio 2012\Projects\dll_BaseTest\Dll_import_test\obj\Debug\Dll_import_test.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\dll_BaseTest\Dll_import_test\obj\Debug\Dll_import_test.Properties.Resources.resources
+d:\documents\visual studio 2012\Projects\dll_BaseTest\Dll_import_test\obj\Debug\Dll_import_test.csproj.GenerateResource.Cache
+d:\documents\visual studio 2012\Projects\dll_BaseTest\Dll_import_test\bin\Debug\Dll_import_test.exe
+d:\documents\visual studio 2012\Projects\dll_BaseTest\Dll_import_test\bin\Debug\Dll_import_test.pdb
+d:\documents\visual studio 2012\Projects\dll_BaseTest\Dll_import_test\obj\Debug\Dll_import_test.exe
+d:\documents\visual studio 2012\Projects\dll_BaseTest\Dll_import_test\obj\Debug\Dll_import_test.pdb
+d:\documents\visual studio 2012\Projects\dll_BaseTest\Dll_import_test\obj\Debug\Dll_import_test.Form1.resources
+d:\documents\visual studio 2012\Projects\dll_BaseTest\Dll_import_test\bin\Debug\PPSLog.dll
+d:\documents\visual studio 2012\Projects\dll_BaseTest\Dll_import_test\bin\Debug\PPSLog.pdb

@@ -1,0 +1,5 @@
+D:\Gx_RemoteUpdate\PPSLog\bin\x86\Debug\PPSLog.dll
+D:\Gx_RemoteUpdate\PPSLog\bin\x86\Debug\PPSLog.pdb
+D:\Gx_RemoteUpdate\PPSLog\obj\x86\Debug\PPSLog.csprojResolveAssemblyReference.cache
+D:\Gx_RemoteUpdate\PPSLog\obj\x86\Debug\PPSLog.dll
+D:\Gx_RemoteUpdate\PPSLog\obj\x86\Debug\PPSLog.pdb

@@ -1,0 +1,14 @@
+﻿已經開始建置於 2018/4/2 下午 02:41:16。
+     1>節點 2 (Build 目標) 上的專案 "d:\documents\visual studio 2012\Projects\dll_BaseTest\Dll_import_cpp\Dll_import_cpp.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\documents\visual studio 2012\projects\dll_basetest\dll_import_cpp\main.cpp(82): warning C4101: 'buf' : 未參考的區域變數
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\documents\visual studio 2012\Projects\dll_BaseTest\Debug\Dll_import_cpp.exe" /INCREMENTAL /NOLOGO ws2_32.lib "D:\Documents\Visual Studio 2012\Projects\dll_BaseTest\Debug\dll_BaseTest.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"d:\documents\visual studio 2012\Projects\dll_BaseTest\Debug\Dll_import_cpp.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\documents\visual studio 2012\Projects\dll_BaseTest\Debug\Dll_import_cpp.lib" /MACHINE:X86 Debug\main.obj
+         Dll_import_cpp.vcxproj -> d:\documents\visual studio 2012\Projects\dll_BaseTest\Debug\Dll_import_cpp.exe
+     1>專案 "d:\documents\visual studio 2012\Projects\dll_BaseTest\Dll_import_cpp\Dll_import_cpp.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:01.37
